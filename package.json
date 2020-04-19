@@ -1,0 +1,8 @@
+{
+  "name": "pidgin-emoji",
+  "version": "0.0.1",
+  "dependencies": {
+    "emoji-cheat-sheet": "git+https://github.com/ikatyang/emoji-cheat-sheet.git",
+    "twemoji": "^12.1.5"
+  }
+}
